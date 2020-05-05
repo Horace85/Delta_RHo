@@ -1,2 +1,2 @@
 # Delta_RHo
- Impresora formato DELTA
+ FDM formato DELTA
